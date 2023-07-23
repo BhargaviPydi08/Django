@@ -12,4 +12,6 @@ cursorObject = dataBase.cursor()
 cursorObject.execute("CREATE DATABASE CustomerRelations")
 
 print("All set!")
- 
+
+
+
